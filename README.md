@@ -1,3 +1,3 @@
-# Web-Animation-Template
+# Image Circle Representation
 
-My template repository for creating web animations
+Displays a given image using the HTML canvas using circles which are controlled by the average lightness of the relative position of the image.
